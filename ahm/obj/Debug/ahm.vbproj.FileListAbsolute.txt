@@ -1,0 +1,129 @@
+B:\UAS Visual\ahm\ShowroomToyota\obj\Debug\ahm.vbprojAssemblyReference.cache
+B:\UAS Visual\ahm\ShowroomToyota\obj\Debug\ahm.FormMobil.resources
+B:\UAS Visual\ahm\ShowroomToyota\obj\Debug\ahm.FormLaporanPenjualan.resources
+B:\UAS Visual\ahm\ShowroomToyota\obj\Debug\ahm.FormLaporanStok.resources
+B:\UAS Visual\ahm\ShowroomToyota\obj\Debug\ahm.FormLogin.resources
+B:\UAS Visual\ahm\ShowroomToyota\obj\Debug\ahm.FormMenu.resources
+B:\UAS Visual\ahm\ShowroomToyota\obj\Debug\ahm.FormPengiriman.resources
+B:\UAS Visual\ahm\ShowroomToyota\obj\Debug\ahm.FormPengguna.resources
+B:\UAS Visual\ahm\ShowroomToyota\obj\Debug\ahm.FormPenjualan.resources
+B:\UAS Visual\ahm\ShowroomToyota\obj\Debug\ahm.Resources.resources
+B:\UAS Visual\ahm\ShowroomToyota\obj\Debug\ahm.vbproj.GenerateResource.cache
+B:\UAS Visual\ahm\ShowroomToyota\obj\Debug\ahm.vbproj.CoreCompileInputs.cache
+B:\UAS Visual\ahm\ahm\bin\Debug\ahm.exe.config
+B:\UAS Visual\ahm\ahm\bin\Debug\ahm.exe
+B:\UAS Visual\ahm\ahm\bin\Debug\ahm.pdb
+B:\UAS Visual\ahm\ahm\bin\Debug\ahm.xml
+B:\UAS Visual\ahm\ahm\bin\Debug\AxShockwaveFlashObjects.dll
+B:\UAS Visual\ahm\ahm\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+B:\UAS Visual\ahm\ahm\bin\Debug\CrystalDecisions.ReportSource.dll
+B:\UAS Visual\ahm\ahm\bin\Debug\CrystalDecisions.Shared.dll
+B:\UAS Visual\ahm\ahm\bin\Debug\CrystalDecisions.Windows.Forms.dll
+B:\UAS Visual\ahm\ahm\bin\Debug\ShockwaveFlashObjects.dll
+B:\UAS Visual\ahm\ahm\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+B:\UAS Visual\ahm\ahm\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+B:\UAS Visual\ahm\ahm\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+B:\UAS Visual\ahm\ahm\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+B:\UAS Visual\ahm\ahm\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+B:\UAS Visual\ahm\ahm\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+B:\UAS Visual\ahm\ahm\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+B:\UAS Visual\ahm\ahm\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+B:\UAS Visual\ahm\ahm\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+B:\UAS Visual\ahm\ahm\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+B:\UAS Visual\ahm\ahm\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+B:\UAS Visual\ahm\ahm\bin\Debug\stdole.dll
+B:\UAS Visual\ahm\ahm\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+B:\UAS Visual\ahm\ahm\obj\Debug\ahm.vbprojAssemblyReference.cache
+B:\UAS Visual\ahm\ahm\obj\Debug\ahm.FormLaporanPenjualan.resources
+B:\UAS Visual\ahm\ahm\obj\Debug\ahm.FormLaporanStok.resources
+B:\UAS Visual\ahm\ahm\obj\Debug\ahm.FormLogin.resources
+B:\UAS Visual\ahm\ahm\obj\Debug\ahm.FormMenu.resources
+B:\UAS Visual\ahm\ahm\obj\Debug\ahm.FormPengiriman.resources
+B:\UAS Visual\ahm\ahm\obj\Debug\ahm.FormPengguna.resources
+B:\UAS Visual\ahm\ahm\obj\Debug\ahm.FormPenjualan.resources
+B:\UAS Visual\ahm\ahm\obj\Debug\ahm.Resources.resources
+B:\UAS Visual\ahm\ahm\obj\Debug\ahm.vbproj.GenerateResource.cache
+B:\UAS Visual\ahm\ahm\obj\Debug\ahm.vbproj.CoreCompileInputs.cache
+B:\UAS Visual\ahm\ahm\obj\Debug\ahm.vbproj.CopyComplete
+B:\UAS Visual\ahm\ahm\obj\Debug\ahm.exe
+B:\UAS Visual\ahm\ahm\obj\Debug\ahm.xml
+B:\UAS Visual\ahm\ahm\obj\Debug\ahm.pdb
+B:\UAS Visual\ahm\ahm\obj\Debug\ahm.FormMotor.resources
+E:\Kuliah\Semester 2\Tugas\Visual 1\UAS Visual\ahm\ahm\bin\Debug\ahm.exe.config
+E:\Kuliah\Semester 2\Tugas\Visual 1\UAS Visual\ahm\ahm\bin\Debug\ahm.exe
+E:\Kuliah\Semester 2\Tugas\Visual 1\UAS Visual\ahm\ahm\bin\Debug\ahm.pdb
+E:\Kuliah\Semester 2\Tugas\Visual 1\UAS Visual\ahm\ahm\bin\Debug\ahm.xml
+E:\Kuliah\Semester 2\Tugas\Visual 1\UAS Visual\ahm\ahm\bin\Debug\AxShockwaveFlashObjects.dll
+E:\Kuliah\Semester 2\Tugas\Visual 1\UAS Visual\ahm\ahm\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Kuliah\Semester 2\Tugas\Visual 1\UAS Visual\ahm\ahm\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Kuliah\Semester 2\Tugas\Visual 1\UAS Visual\ahm\ahm\bin\Debug\CrystalDecisions.Shared.dll
+E:\Kuliah\Semester 2\Tugas\Visual 1\UAS Visual\ahm\ahm\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Kuliah\Semester 2\Tugas\Visual 1\UAS Visual\ahm\ahm\bin\Debug\ShockwaveFlashObjects.dll
+E:\Kuliah\Semester 2\Tugas\Visual 1\UAS Visual\ahm\ahm\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Kuliah\Semester 2\Tugas\Visual 1\UAS Visual\ahm\ahm\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Kuliah\Semester 2\Tugas\Visual 1\UAS Visual\ahm\ahm\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Kuliah\Semester 2\Tugas\Visual 1\UAS Visual\ahm\ahm\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Kuliah\Semester 2\Tugas\Visual 1\UAS Visual\ahm\ahm\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Kuliah\Semester 2\Tugas\Visual 1\UAS Visual\ahm\ahm\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Kuliah\Semester 2\Tugas\Visual 1\UAS Visual\ahm\ahm\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Kuliah\Semester 2\Tugas\Visual 1\UAS Visual\ahm\ahm\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Kuliah\Semester 2\Tugas\Visual 1\UAS Visual\ahm\ahm\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Kuliah\Semester 2\Tugas\Visual 1\UAS Visual\ahm\ahm\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Kuliah\Semester 2\Tugas\Visual 1\UAS Visual\ahm\ahm\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Kuliah\Semester 2\Tugas\Visual 1\UAS Visual\ahm\ahm\bin\Debug\stdole.dll
+E:\Kuliah\Semester 2\Tugas\Visual 1\UAS Visual\ahm\ahm\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Kuliah\Semester 2\Tugas\Visual 1\UAS Visual\ahm\ahm\obj\Debug\ahm.vbprojAssemblyReference.cache
+E:\Kuliah\Semester 2\Tugas\Visual 1\UAS Visual\ahm\ahm\obj\Debug\ahm.FormMotor.resources
+E:\Kuliah\Semester 2\Tugas\Visual 1\UAS Visual\ahm\ahm\obj\Debug\ahm.FormLaporanPenjualan.resources
+E:\Kuliah\Semester 2\Tugas\Visual 1\UAS Visual\ahm\ahm\obj\Debug\ahm.FormLaporanStok.resources
+E:\Kuliah\Semester 2\Tugas\Visual 1\UAS Visual\ahm\ahm\obj\Debug\ahm.FormLogin.resources
+E:\Kuliah\Semester 2\Tugas\Visual 1\UAS Visual\ahm\ahm\obj\Debug\ahm.FormMenu.resources
+E:\Kuliah\Semester 2\Tugas\Visual 1\UAS Visual\ahm\ahm\obj\Debug\ahm.FormPengiriman.resources
+E:\Kuliah\Semester 2\Tugas\Visual 1\UAS Visual\ahm\ahm\obj\Debug\ahm.FormPengguna.resources
+E:\Kuliah\Semester 2\Tugas\Visual 1\UAS Visual\ahm\ahm\obj\Debug\ahm.FormPenjualan.resources
+E:\Kuliah\Semester 2\Tugas\Visual 1\UAS Visual\ahm\ahm\obj\Debug\ahm.Resources.resources
+E:\Kuliah\Semester 2\Tugas\Visual 1\UAS Visual\ahm\ahm\obj\Debug\ahm.vbproj.GenerateResource.cache
+E:\Kuliah\Semester 2\Tugas\Visual 1\UAS Visual\ahm\ahm\obj\Debug\ahm.vbproj.CoreCompileInputs.cache
+E:\Kuliah\Semester 2\Tugas\Visual 1\UAS Visual\ahm\ahm\obj\Debug\ahm.vbproj.CopyComplete
+E:\Kuliah\Semester 2\Tugas\Visual 1\UAS Visual\ahm\ahm\obj\Debug\ahm.exe
+E:\Kuliah\Semester 2\Tugas\Visual 1\UAS Visual\ahm\ahm\obj\Debug\ahm.xml
+E:\Kuliah\Semester 2\Tugas\Visual 1\UAS Visual\ahm\ahm\obj\Debug\ahm.pdb
+B:\toGithub\ahm\ahm\bin\Debug\ahm.exe.config
+B:\toGithub\ahm\ahm\bin\Debug\ahm.exe
+B:\toGithub\ahm\ahm\bin\Debug\ahm.pdb
+B:\toGithub\ahm\ahm\bin\Debug\ahm.xml
+B:\toGithub\ahm\ahm\bin\Debug\AxShockwaveFlashObjects.dll
+B:\toGithub\ahm\ahm\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+B:\toGithub\ahm\ahm\bin\Debug\CrystalDecisions.ReportSource.dll
+B:\toGithub\ahm\ahm\bin\Debug\CrystalDecisions.Shared.dll
+B:\toGithub\ahm\ahm\bin\Debug\CrystalDecisions.Windows.Forms.dll
+B:\toGithub\ahm\ahm\bin\Debug\ShockwaveFlashObjects.dll
+B:\toGithub\ahm\ahm\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+B:\toGithub\ahm\ahm\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+B:\toGithub\ahm\ahm\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+B:\toGithub\ahm\ahm\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+B:\toGithub\ahm\ahm\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+B:\toGithub\ahm\ahm\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+B:\toGithub\ahm\ahm\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+B:\toGithub\ahm\ahm\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+B:\toGithub\ahm\ahm\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+B:\toGithub\ahm\ahm\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+B:\toGithub\ahm\ahm\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+B:\toGithub\ahm\ahm\bin\Debug\stdole.dll
+B:\toGithub\ahm\ahm\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+B:\toGithub\ahm\ahm\obj\Debug\ahm.vbprojAssemblyReference.cache
+B:\toGithub\ahm\ahm\obj\Debug\ahm.FormMotor.resources
+B:\toGithub\ahm\ahm\obj\Debug\ahm.FormLaporanPenjualan.resources
+B:\toGithub\ahm\ahm\obj\Debug\ahm.FormLaporanStok.resources
+B:\toGithub\ahm\ahm\obj\Debug\ahm.FormLogin.resources
+B:\toGithub\ahm\ahm\obj\Debug\ahm.FormMenu.resources
+B:\toGithub\ahm\ahm\obj\Debug\ahm.FormPengiriman.resources
+B:\toGithub\ahm\ahm\obj\Debug\ahm.FormPengguna.resources
+B:\toGithub\ahm\ahm\obj\Debug\ahm.FormPenjualan.resources
+B:\toGithub\ahm\ahm\obj\Debug\ahm.Resources.resources
+B:\toGithub\ahm\ahm\obj\Debug\ahm.vbproj.GenerateResource.cache
+B:\toGithub\ahm\ahm\obj\Debug\ahm.vbproj.CoreCompileInputs.cache
+B:\toGithub\ahm\ahm\obj\Debug\ahm.vbproj.CopyComplete
+B:\toGithub\ahm\ahm\obj\Debug\ahm.exe
+B:\toGithub\ahm\ahm\obj\Debug\ahm.xml
+B:\toGithub\ahm\ahm\obj\Debug\ahm.pdb
